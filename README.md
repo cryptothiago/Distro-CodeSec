@@ -14,11 +14,11 @@
 
 💽 To download official the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>, but you can download it through the links below, as they are in an easy mode:<br>
 
-<b>DVD - recommended</b>
+<h2>DVD - recommended</h2>
 
 <i> The following links point to image files that are up to 4.4GB in size, making them suitable for burning to standard DVD-R / DVD + R media and the like: </i>
 
-<b>32 Bits</b>
+<h3>32 Bits</h3>
 
 <i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the i386 architecture.</i>
 
@@ -30,7 +30,7 @@
 
 <a href="https://cdimage.debian.org/debian-cd/current/i386/bt-dvd/debian-9.1.0-i386-DVD-1.iso.torrent">- Debian</a><br>
 
-<b>64 Bits</b>
+<h3>64 Bits</h3>
 
 <i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the amd64 architecture.</i>
 
@@ -42,11 +42,11 @@
 
 <a href="https://cdimage.debian.org/debian-cd/current/amd64/bt-dvd/debian-9.1.0-amd64-DVD-1.iso.torrent">- Debian</a><br>
 
-<b>CD - Not recommended</b>
+<h2>CD - Not recommended</h2>
 
 <i> The following links point to image files that are up to 650 MB in size, making them suitable for burning to normal CD-R (W) media: </i>
 
-<b>32 Bits</b>
+<h3>32 Bits</h3>
 
 <i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the i386 architecture.</i>
 
@@ -60,7 +60,7 @@
 <a href="https://cdimage.debian.org/debian-cd/current/i386/bt-cd/debian-9.1.0-i386-netinst.iso.torrent">- Netinst</a><br>
 <a href="https://cdimage.debian.org/debian-cd/current/i386/bt-cd/debian-9.1.0-i386-xfce-CD-1.iso.torrent">- XFCE</a><br>
 
-<b>64 Bits</b>
+<h3>64 Bits</h3>
 
 <i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the amd64 architecture.</i>
 
