@@ -1,4 +1,4 @@
-# Distribuição Linux CodeSec
+# Distribution Linux CodeSec
 
 🌐 This project is about a Linux distribution made by CodeSec BR team
 
@@ -18,9 +18,13 @@
 🛠 <B> Pentest </b><br>
 🖥 <B> Programming </b><br>
 
+<img src="http://i.imgur.com/5Wl9pbs.png">
+
 # Distribution Download
 
 💽 To download official the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>, but you can download it through the links below, as they are in an easy mode:<br>
+
+<img src="http://i.imgur.com/GQFzr2G.png">
 
 <h2>DVD - recommended</h2>
 
@@ -88,6 +92,8 @@
 
 # Other projects
 
+<img src="http://i.imgur.com/RH5oJG8.png">
+
 <b>Sobre a TerminalRoot404</b>
 
 <i>Terminal Root 404 é uma equipe cujo seu objetivo principal é levar conhecimento a todos, pois apoiamos a ideia de que todo e quais quer conhecimento deve ser livre. A equipe da Terminal Root 404 é formada de alunos universitários, e é feita por um serviço comunitário.
@@ -104,6 +110,3 @@ A Terminal Root 404 tem o foco voltado a segurança da informação, programaç�
 
 <a href="https://fb.com/mfz.sombrahp">🇦🇱 Pagina no Facebook<br></a>
 <a href="https://goo.gl/4nhqrY">🎥 Canal no Youtube<br><a>
-
-
-
