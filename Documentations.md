@@ -9,6 +9,5 @@
 📖 Follow the Linux CodeSec distribution documentation below.<br><br>
 
 <a href="install_debian.md">▪️ Install</a><br>
-<a href="#">▪️ Tools</a><br>
-<a href="#">▪️ Scritps</a><br>
+<a href="tools.md">▪️ Tools</a><br>
 <a href="#">▪️ About</a><br>
