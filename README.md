@@ -8,7 +8,7 @@
 
 🌐 The Linux distribution CodeSec was based on Debian 9, due to its high stability, lightness, productivity and great support by the community
 
-💽 <img src="http://i.imgur.com/HNj7kbQ.png">
+<img src="http://i.imgur.com/HNj7kbQ.png">
 
 # Distribution Download 
 
