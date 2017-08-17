@@ -1,23 +1,30 @@
 # Distribuição Linux CodeSec
 
-This project is about a Linux distribution made by CodeSec BR team
+🌐 This project is about a Linux distribution made by CodeSec BR team
 
 <img src="http://i.imgur.com/6A9pbWZ.jpg">
 
 # Based on Debian
 
-The Linux distribution CodeSec was based on Debian 9, due to its high stability, lightness, productivity and great support by the community
+🌐 The Linux distribution CodeSec was based on Debian 9, due to its high stability, lightness, productivity and great support by the community
 
-<img src="http://i.imgur.com/HNj7kbQ.png">
+💽 <img src="http://i.imgur.com/HNj7kbQ.png">
 
 # Distribution Download 
 
-To download the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>
+💽 To download the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>
 
 # Distribution Installation
 
-To install the linux distribution, just go to the <a href="/Documents">documentation</a>
+📖 To install the linux distribution, just go to the <a href="/Documents">documentation</a>
 
+# CodeSec Distribution Features
+
+🏗 The CodeSec Distribution was created from <i>three pillars</i>:
+
+🕶 <B> Beauty </b><br>
+🛠 <B> Pentest </b><br>
+🖥 <B> Programming </b><br>
 
 # Other projects
 
