@@ -12,7 +12,41 @@
 
 # Distribution Download 
 
-💽 To download the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>
+💽 To download official the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>, but you can download it through the links below, as they are in an easy mode:
+
+<b>CD - Not recommended</b>
+
+<i> The following links point to image files that are up to 650 MB in size, making them suitable for burning to normal CD-R (W) media: </i>
+
+<b>32 Bits</b>
+
+<i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the i386 architecture.</i>
+
+<a href="https://cdimage.debian.org/debian-cd/current/i386/iso-cd/debian-9.1.0-i386-netinst.iso">- Netinst</a><br>
+<a href="https://cdimage.debian.org/debian-cd/current/i386/iso-cd/debian-9.1.0-i386-xfce-CD-1.iso">- XFCE</a><br>
+
+<b>64 Bits</b>
+
+<i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the amd64 architecture.</i>
+
+<a href="https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.1.0-amd64-netinst.iso">- Netinst</a><br>
+<a href="https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.1.0-amd64-xfce-CD-1.iso">- XFCE</a><br>
+
+<b>DVD - recommended</b>
+
+<i> The following links point to image files that are up to 4.4GB in size, making them suitable for burning to standard DVD-R / DVD + R media and the like: </i>
+
+<b>32 Bits</b>
+
+<i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the i386 architecture.</i>
+
+<a href="https://cdimage.debian.org/debian-cd/current/i386/iso-dvd/debian-9.1.0-i386-DVD-1.iso">- Debian</a>
+
+<b>64 Bits</b>
+
+<i> These are files containing the installer and other software for the Debian GNU/Linux operating system. The files in this directory are specifically for the amd64 architecture.</i>
+
+<a href="https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-9.1.0-amd64-DVD-1.iso">- Debian</a>
 
 # Distribution Installation
 
