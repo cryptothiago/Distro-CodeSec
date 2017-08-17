@@ -84,7 +84,7 @@
 
 # Distribution Installation
 
-📖 To install the linux distribution, just go to the <a href="/Documentation.md">documentation</a>
+📖 To install the linux distribution, just go to the <a href="/Documentations.md">documentations</a>
 
 # Other projects
 
