@@ -16,7 +16,7 @@
 
 # Distribution Installation
 
-📖 To install the linux distribution, just go to the <a href="/Documents">documentation</a>
+📖 To install the linux distribution, just go to the <a href="/Documentation">documentation</a>
 
 # CodeSec Distribution Features
 
