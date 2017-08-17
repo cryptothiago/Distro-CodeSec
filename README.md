@@ -10,6 +10,14 @@
 
 <img src="http://i.imgur.com/HNj7kbQ.png">
 
+# CodeSec Distribution Features
+
+🏗 The CodeSec Distribution was created from <i>three pillars</i>:
+
+🕶 <B> Beauty </b><br>
+🛠 <B> Pentest </b><br>
+🖥 <B> Programming </b><br>
+
 # Distribution Download
 
 💽 To download official the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>, but you can download it through the links below, as they are in an easy mode:<br>
@@ -77,14 +85,6 @@
 # Distribution Installation
 
 📖 To install the linux distribution, just go to the <a href="/Documentation.md">documentation</a>
-
-# CodeSec Distribution Features
-
-🏗 The CodeSec Distribution was created from <i>three pillars</i>:
-
-🕶 <B> Beauty </b><br>
-🛠 <B> Pentest </b><br>
-🖥 <B> Programming </b><br>
 
 # Other projects
 
